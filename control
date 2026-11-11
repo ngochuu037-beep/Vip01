@@ -1,0 +1,8 @@
+Package: com.yourname.licensegate
+Name: LicenseGate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: License key gate
+Maintainer: you
+Author: you
+Section: Tweaks
