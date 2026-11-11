@@ -2,7 +2,7 @@
 #import <Security/Security.h>
 
 // ===== ĐỔI DÒNG NÀY thành domain Railway của bạn =====
-#define SERVER @"https://ten-app-cua-ban.up.railway.app"
+#define SERVER @"https://license-server-production-740c4209.up.railway.app"
 #define KC_ACCOUNT @"license_key"
 
 static BOOL gShowing = NO;
